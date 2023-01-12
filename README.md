@@ -15,5 +15,11 @@ Trabalho em projetos envolvendo desenvolvimento de software.Gosto de aprender co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerdainfo&theme=tokyonight)](https://github.com/Lacerdainfo/github-readme-stats)
 ## Principais Repositorios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lacerdainfo&repo=Gerdor-de-senhas-JS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Contato
+edipofeitosa@gmail.com
+
+https://trailblazer.me/id/dlacerda3
+
+www.linkedin.com/in/édipo-lacerda-406a5b219
 
 
