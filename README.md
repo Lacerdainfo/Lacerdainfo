@@ -1,6 +1,10 @@
-Ola Meu nome é Édipo.
 
-Trabalho em projetos envolvendo desenvolvimento de software.Gosto de aprender coisas novas e compartilhar conhecimentos, Gosto de trabalhar em equipe e tenho bom relacionamento com colegas de trabalho.
+<h1 align="center">Bem Vindo</hi>
+
+<h5>  Meu nome é Edipo Feitosa Lacerda.
+
+
+Trabalho em projetos envolvendo desenvolvimento de software.Gosto de aprender coisas novas e compartilhar conhecimentos, Gosto de trabalhar em equipe e tenho bom relacionamento com colegas de trabalho.</h5>
 ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
