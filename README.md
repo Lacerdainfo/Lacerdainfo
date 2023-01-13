@@ -14,7 +14,8 @@ Trabalho em projetos envolvendo desenvolvimento de software.Gosto de aprender co
 
 ## Contato
  <a href="https://www.linkedin.com/in/édipo-lacerda-406a5b219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-edipofeitosa@gmail.com
+  <a href = "mailto:edipofeitosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 https://trailblazer.me/id/dlacerda3
 
