@@ -11,7 +11,7 @@ Trabalho em projetos envolvendo desenvolvimento de software.Gosto de aprender co
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacerdainfo&show_icons=true&theme=tokyonight)](https://github.com/Lacerdainfo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacerdainfo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerdainfo&theme=tokyonight)](https://github.com/Lacerdainfo/github-readme-stats)
 ## Principais Repositorios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lacerdainfo&repo=Gerdor-de-senhas-JS&theme=tokyonight)](https://github.com/Lacerdainfo/Gerdor-de-senhas-JS)
